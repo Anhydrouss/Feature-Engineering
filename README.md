@@ -1,0 +1,3 @@
+# Feature-Engineering
+Melbourne real estate data 2018
+Predicting Melbourne Real Estate Price - Feature Engineering - classic (423K variance) and GPT (307k variance), hence to be continued...
